@@ -1,4 +1,5 @@
-# KotlinImoocVideoStudyNotes
+<h1 align="center">KotlinImoocVideoStudyNotes</h1>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/JsonChao/KotlinImoocVideoStudyNotes/master/screenshot/KOTLIN.png">
 </div>
